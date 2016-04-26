@@ -1,4 +1,7 @@
 
+.megamenu_light .megamenu li ul li.faright{
+text-align:right;
+}
 
 /*--login--*/
 /**{
@@ -13,7 +16,7 @@
  }
  /*******makra*********/
  .modal-backdrop.in{
- 	display: none !important;
+ 	/*display: none !important;*/
  }
  /*******end makara****/
 
@@ -914,6 +917,9 @@ a:hover+div.stylequickView{
 .member-description{
     margin-top: 30px;
 }
+p.member-description{
+	color:#000;
+}
 .member-description-a{
     margin-top: 10px;
 }
@@ -921,8 +927,11 @@ a:hover+div.stylequickView{
     margin-bottom: 40px;
 }
 .text-member-all{
-    padding-top: 5px;
-
+    padding: 15px;
+    background:url('../images/system/bg_text_memberDescription.png') repeat;
+}
+.box_giftGray{
+	opacity:0.5;
 }
 .hold_progress {
     background: #f3f3f3;
@@ -930,6 +939,9 @@ a:hover+div.stylequickView{
     opacity: 0.8;
     overflow: hidden;
     padding: 40px;
+}
+div.hold_progress{
+	background:url('../images/system/bg_text_memberDescription.png') repeat;
 }
 .space-member-border{
     margin-top: 30px;
@@ -961,6 +973,9 @@ h3.title{
     overflow: hidden;
     padding: 15px;
 }
+div.hold_number{
+	background:url('../images/system/bg_text_memberDescription.png') repeat;
+}
 .num-black {
     border: 8px solid #000;
     border-radius: 50%;
@@ -976,6 +991,7 @@ h3.title{
 }
 .text-earn{
     font-size: 25px;
+    margin-left:10px;
 }
 .well-earn-more {
     background-color: #f5f5f5;
@@ -1386,12 +1402,12 @@ h5{
  background-repeat: no-repeat;
  background-size: 100% 100%;
 }
-h3.white-header{
-	color:#fff;
-	font-weight: bold;
-	font-size: 30px;
-	margin-top: 10px;
-	margin-bottom: 0px;
+h3.white-header {
+    color: #fff;
+    font-weight: bold;
+    font-size: 19px;
+    margin-top: 5px;
+    margin-bottom: 6px;
 }
 h4.white-header{
 	color:#fff;
@@ -1761,4 +1777,16 @@ input[type=radio]:not(old):checked + label{
 }
 .search-left{
 	width: 70%;
+}
+
+.updateCheck input[type=checkbox]:not(old){
+	opacity:5;
+}
+div input#addreview{
+	background-color: #000000;
+	margin-bottom:1px;
+	margin-left: 20%;
+	border-radius:0px; 
+	width: 30%; 
+	padding: 3px;
 }

@@ -199,11 +199,11 @@
 }
 .refine_menu ul li a.border-dashed{
   font-size: 14px;
-  color: #21ace2;
+  color: #e4332a;
   text-transform:uppercase;
   font-weight:bold;
   border-radius:5px;
-  border:2px dashed #21ace2;
+  border:2px dashed #e4332a;
   padding: 5px;
   margin-top: 5px;
  
@@ -212,7 +212,7 @@
 	margin-left:15px;
 }
 .refine_menu ul li a.border_left{
-	border-left:3px solid #21ace2;
+	border-left:3px solid #e4332a;
 }
 #panel_price{
 	display:none;
