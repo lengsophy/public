@@ -881,7 +881,6 @@ a:hover+div.stylequickView{
     background-image: url("../images/member-img-black.png");
     background-position: right top;
     background-repeat: no-repeat;
-    overflow: hidden;
     padding-bottom:0px;
 }
 #bg_member_silver {
