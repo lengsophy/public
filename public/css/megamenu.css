@@ -977,11 +977,11 @@ body {
 		color:#fff;
 	}
 	.megamenu_dark_bar .megamenu > li .megamenu_drop {
-		background:url("../images/dropdown.png") no-repeat right 18px;
+		/*background:url("../images/dropdown.png") no-repeat right 18px;*/
 	}
 	.megamenu_dark_bar .megamenu li.megamenu_button,
 	.megamenu_dark_bar .megamenu li.megamenu_button:hover {
-		background:url("../images/dropdown.png") no-repeat right 19px;
+		/*background:url("../images/dropdown.png") no-repeat right 19px;*/
 	}
 	.megamenu_dark_bar .megamenu li.megamenu_button_active,
 	.megamenu_dark_bar .megamenu li.megamenu_button_active:hover {
@@ -1319,7 +1319,7 @@ body {
 		background: none;
 	}
 	.megamenu_dark .megamenu li .dropdown_flyout .dropdown_parent {
-		background:url("../images/dropdown.png") no-repeat right 9px;
+		/*background:url("../images/dropdown.png") no-repeat right 9px;*/
 	}
 	.megamenu_light .megamenu li .dropdown_flyout .dropdown_parent {
 		background:url("../images/dropdown-b.png") no-repeat right 9px;

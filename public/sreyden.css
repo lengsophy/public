@@ -25,7 +25,7 @@
       width: 40px;
       height: 58px;
       cursor: pointer;
-     /* background: url('img/a22.png') center center no-repeat;*/
+      background: url('img/a22.png') center center no-repeat;
       overflow: hidden;
   }
   .jssora22l { background-position: -10px -31px; }
@@ -78,7 +78,7 @@
 }
 
 #gallery {
-  width: 420px;
+  width: 2000px;
   position: absolute;
   z-index: 1;
 }
