@@ -1,1 +1,212 @@
-@media(min-device-width:1200px){.hold_cart{padding-top:60px;margin-bottom:-10px;background:url("../images/bg_hold_cart-01.png") no-repeat;background-size:100% auto;overflow:hidden;padding-bottom:20px;width:230px!important}#squarespaceModal .modal-content .modal-body .hold_input_login{padding:25px 15px}div.social_share div.text-center{width:220px}}@media(min-device-width:992px) and (max-device-width:1199px){#squarespaceModal .modal-content .modal-body .hold_input_login{padding:25px 15px}.container{max-width:940px}.hold_cart{padding-top:60px;margin-bottom:-10px;background:url("../images/bg_card-01.svg") no-repeat;background-size:100% auto;overflow:hidden;padding-bottom:20px;width:230px!important}div.social_share div.text-center{width:220px}}@media(min-device-width:768px) and (max-device-width:991px){.hold_cart{padding:140px 15px 25px 15px;margin-bottom:-10px;background:url("../images/bg_card-01.svg");background-size:cover;overflow:hidden;width:230px!important}div.social_share div.text-center{width:220px}#squarespaceModal .modal-lg{width:700px}#squarespaceModal .modal-content .modal-body .hold_input_login{padding:25px 0}#squarespaceModal .modal-content .modal-body .hold_input_login{padding:25px 15px}}@media(min-device-width:480px) and (max-device-width:767px){.hold_cart{padding:140px 15px 25px 15px;margin-bottom:-10px;background:url("../images/bg_card-01.svg");background-size:cover;overflow:hidden;width:230px!important}div.social_share div.text-center{width:220px}#squarespaceModal .modal-lg{width:95%;margin-top:80px}#squarespaceModal .modal-content .modal-body .hold_input_login{padding:25px 0}#squarespaceModal .modal-content .modal-body .hold_input_register{padding-left:0;padding-top:25px}#squarespaceModal .modal-content .modal-body{position:relative;padding:25px;overflow:hidden}}@media(min-device-width:100px) and (max-device-width:480px){.hold_cart{padding:140px 15px 25px 15px;margin-bottom:-10px;background:url("../images/bg_card-01.svg");background-size:cover;overflow:hidden;width:230px!important}div.social_share div.text-center{width:220px}#squarespaceModal .modal-lg{width:95%;margin-top:80px}#squarespaceModal .modal-content .modal-body .hold_input_login{padding:25px 0}#squarespaceModal .modal-content .modal-body .hold_input_register{padding-left:0;padding-top:25px}#squarespaceModal .modal-content .modal-body{position:relative;padding:25px;overflow:hidden}}
+/* Large desktops and laptops */
+@media (min-device-width: 1200px){
+    .hold_cart {
+        padding-top: 60px;
+        margin-bottom: -10px;
+        background: url("../images/bg_hold_cart-01.png") no-repeat;
+        background-size: 100% auto;
+        overflow: hidden;
+        padding-bottom: 20px;
+        width: 230px !important;
+    }
+    #squarespaceModal .modal-content .modal-body .hold_input_login {
+        padding: 25px 15px;
+    }
+    div.social_share div.text-center{
+        width: 220px;
+    }
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-device-width: 992px) and (max-device-width: 1199px) {
+    #squarespaceModal .modal-content .modal-body .hold_input_login {
+        padding: 25px 15px;
+    }
+    .container{max-width:940px;}
+    .hold_cart {
+        padding-top: 60px;
+        margin-bottom: -10px;
+        background: url("../images/bg_card-01.svg") no-repeat;
+        background-size: 100% auto;
+        overflow: hidden;
+        padding-bottom: 20px;
+        width: 230px !important;
+    }
+    div.social_share div.text-center{
+        width: 220px;
+    }
+    .quicklink h2 {
+        font-size: 22px;
+    }
+
+}
+
+/* Portrait tablets and small desktops */
+@media (min-device-width: 768px) and (max-device-width: 991px) {
+    .hold_cart{
+        padding:140px 15px 25px 15px;
+        margin-bottom:-10px;
+        background:url("../images/bg_card-01.svg");
+        background-size: cover;
+        overflow: hidden;
+        width: 230px !important;
+
+    }
+    div.social_share div.text-center{
+        width: 220px;
+    }
+    #squarespaceModal .modal-lg {
+        width: 700px;
+    }
+    #squarespaceModal .modal-content .modal-body .hold_input_login{
+        padding: 25px 0px;
+    }
+    #squarespaceModal .modal-content .modal-body .hold_input_login {
+        padding: 25px 15px;
+    }
+    /*advertise style */
+    .quicklink h2 {
+        font-size: 20px;
+    }
+   .news-home .advertise-news{
+        width: 362px;
+   }
+   .advertise-news .img-hover {
+        width: 355px;
+    }
+    .ads-sm-left {
+        width: 37%;
+        background: #fff;
+        float: left;
+        margin-right: 15px;
+    }
+    .ads-lg {
+        width: 60%;
+        background: #fff;
+        float: right;
+    }
+    .item-img-sm img{
+        height: 252px;
+    }
+    .img-hover-sm, .item-hover-sm, .item-hover-sm .mask-sm, .item-img-sm, .item-info-sm{
+        width: 272px;
+    }
+}
+
+/* Landscape phones and portrait tablets */
+@media (min-device-width: 480px) and (max-device-width: 767px) {
+    .hold_cart{
+        padding:140px 15px 25px 15px;
+        margin-bottom:-10px;
+        background:url("../images/bg_card-01.svg");
+        background-size: cover;
+        overflow: hidden;   
+        width: 230px !important;
+
+    }
+    div.social_share div.text-center{
+        width: 220px;
+    }
+    #squarespaceModal .modal-lg {
+        width: 95%;
+        margin-top: 80px;
+    }
+    #squarespaceModal .modal-content .modal-body .hold_input_login {
+        padding: 25px 0px;
+    }
+    #squarespaceModal .modal-content .modal-body .hold_input_register {
+        padding-left: 0px;
+        padding-top: 25px;
+    }
+    #squarespaceModal .modal-content .modal-body {
+        position: relative;
+        padding: 25px;
+        overflow: hidden;
+    }
+    .quicklink h2{
+        font-size: 16px;
+    }
+   .news-home .advertise-news{
+        width: 362px;
+   }
+   .advertise-news .img-hover {
+        width: 348px;
+    }
+    .ads-sm-left {
+        width: 37%;
+        background: #fff;
+        float: left;
+        margin-right: 15px;
+    }
+    .ads-lg {
+        width: 60%;
+        background: #fff;
+        float: right;
+    }
+    .item-img-sm img{
+        height: 240px;
+    }
+    .img-hover-sm, .item-hover-sm, .item-hover-sm .mask-sm, .item-img-sm, .item-info-sm{
+        width: 260px;
+    }
+}
+
+
+@media (min-device-width: 100px) and (max-device-width: 480px){
+    .hold_cart{
+        padding:140px 15px 25px 15px;
+        margin-bottom:-10px;
+        background:url("../images/bg_card-01.svg");
+        background-size: cover;
+        overflow: hidden;
+        width: 230px !important;
+
+    }
+    div.social_share div.text-center{
+        width: 220px;
+    }
+    #squarespaceModal .modal-lg {
+        width: 95%;
+        margin-top: 80px;
+    }
+
+    #squarespaceModal .modal-content .modal-body .hold_input_login {
+        padding: 25px 0px;
+    }
+    #squarespaceModal .modal-content .modal-body .hold_input_register {
+        padding-left: 0px;
+        padding-top: 25px;
+    }
+    #squarespaceModal .modal-content .modal-body {
+        position: relative;
+        padding: 25px;
+        overflow: hidden;
+    }
+    .quicklink h2 {
+        font-size: 16px;
+    }
+   .news-home .advertise-news{
+        width: 362px;
+   }
+   .advertise-news .img-hover {
+        width: 348px;
+    }
+    .ads-sm-left {
+        width: 36%;
+        height: 170px;
+        background: #fff;
+        float: left;
+        margin-right: 15px;
+    }
+    .ads-lg {
+        width: 60%;
+        background: #fff;
+        float: right;
+    }
+    .item-img-sm img{
+        height: 240px;
+    }
+    .img-hover-sm, .item-hover-sm, .item-hover-sm .mask-sm, .item-img-sm, .item-info-sm{
+        width: 260px;
+    }
+}
