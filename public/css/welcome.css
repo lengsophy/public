@@ -1,0 +1,97 @@
+/* Welcome-safir */
+  .welcome-txt {
+   font-size: 50px;
+   /*font-family: Arial,heverticaNue,sans-serif;*/
+   }
+   .join-txt {
+   font-size: 50px;
+   margin-top: 50px;
+  /*font-family: Arial,heverticaNue,sans-serif;*/
+   }
+   .space-right{
+    margin-right: 30px;
+    margin-bottom: 15px;
+   }
+  .bd-welcome{
+   border:1px solid #bab7b9;
+   width: 40%; 
+   margin-top:30px;
+  }
+  .bd-join{
+   border:1px solid #000;
+   width: 35%; 
+   margin-top:30px;
+  }
+  .wrapp-content-welcome{
+    margin-top: 40px;
+  }
+  .space-bottom-img{
+    margin-bottom: 15px;
+  }
+  .welcome-content-one{
+    font-size: 18px;
+    /*font-family: Arial,heverticaNue,sans-serif;*/
+    margin-bottom: 20px;
+  }
+  .welcome-arab{
+    font-size: 26px;
+  }
+  .welcome-content-two{
+    font-size: 18px;
+    /*font-family: Arial,heverticaNue,sans-serif;*/
+    margin-bottom: 20px;
+  }
+  .welcome-content-three{
+    font-size: 18px;
+    /*font-family: Arial,heverticaNue,sans-serif;*/
+    margin-bottom: 20px;
+  }
+  .welcome-form {
+    background-color: #fff;
+    background-image: none;
+    border: 3px solid #000;
+    border-radius: 0;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+    color: #000;
+    display: block;
+    font-size: 17px;
+    height: 50px;
+    line-height: 1.42857;
+    padding: 6px 12px;
+    width: 100%;
+  }
+  .alert-warning {
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+    color: #8a6d3b;
+    font-size: 19px;
+  }
+  .alert {
+      border: 4px solid #fbf0d3;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      padding: 20px;
+  }
+ .btn-rigister-welcome{
+    background: #241f20 none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.42857;
+    padding: 8px 30px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    margin-top: 20px;
+    /*font-family: Arial,heverticaNue,sans-serif;*/
+    width: 100%
+ }
+ @media only screen and (min-width :768px) and (max-width :1024px) {
+  .space-right{
+    width:100%;
+  }
+}

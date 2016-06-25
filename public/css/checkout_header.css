@@ -1,0 +1,66 @@
+.header_top_right .dropdown-menu {
+    right: 0px;
+    left: auto;
+    background: none repeat scroll 0% 0% #FFF;
+    border-radius: 0px;
+    border: 0px solid #000;
+    margin: 6px 0px 0px;
+    min-width: 340px;
+    padding: 20px;
+}
+.arrow-up {
+    width: 0px;
+    height: 0px;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 15px solid #FFF;
+    left: 86%;
+    position: absolute;
+    top: -11px;
+}
+.title-product-in-card > a strong{
+	color: #000;
+}
+.checkout_price > a strong {
+	color: #000;
+}
+button {
+	/*font-family: inherit;*/
+}
+button.btn_checkout {
+	border-radius: 0px;
+	background: #333 none repeat scroll 0% 0%;
+	text-align: center;
+	font-weight: bold;
+	font-size: 14px;
+	color: #fff;
+	padding: 5px 15px;
+	margin: 0px 0px;
+	background: #ff0505;
+	border: none;
+	background: -moz-linear-gradient(top, #ff0505 0%, #8f0222 99%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ff0505), color-stop(99%,#8f0222));
+	background: -webkit-linear-gradient(top, #ff0505 0%,#8f0222 99%);
+	background: -o-linear-gradient(top, #ff0505 0%,#8f0222 99%);
+	background: -ms-linear-gradient(top, #ff0505 0%,#8f0222 99%);
+	background: linear-gradient(to bottom, #ff0505 0%,#8f0222 99%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ff0505', endColorstr='#8f0222',GradientType=0 );
+}
+button.btn_viewCard {
+	color: #000;
+	font-size: 14px;
+    padding: 5px 15px;
+    border: 1px #000 solid;    
+    background-color: #fff;
+    border-radius: 0px;
+}
+.ka_checkout_scroll {
+	max-height:280px;
+	/*overflow-y:scroll;*/
+	padding:10px 35px;
+}
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #262626;
+    text-decoration: none;
+    background: #000;
+}

@@ -1,0 +1,87 @@
+/* Review Comment */
+.shadow_bottom {
+    box-shadow: 2px 4px 2px 1px rgba(189, 184, 197, 0.4);
+    margin-bottom: 50px;
+}
+h1.title-review{
+  font-size: 42px;
+  font-weight: 700;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+.bg-review-comment {
+    background: rgba(0, 0, 0, 0) url("/images/review.png") no-repeat scroll 0 0;
+    width: 100%;
+    height: 180px;
+    margin-bottom: 30px;
+    background-size: 100% 100%;
+}
+p.text-sm-review{
+   font-size:23px;
+   margin-top: 15px;
+   /*font-family: Gill Sans, sans-serif; */
+}
+.btn-review{
+    -moz-user-select: none;
+    background: #000 none repeat scroll 0 0;
+    border: 1px solid transparent;
+    border-radius: 0;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: 700;
+    line-height: 1.42857;
+    padding: 8px 30px;
+    text-align: center;
+    vertical-align: middle;
+    white-space: nowrap;
+    margin-top: 60px;
+}
+
+
+@media only screen and (min-width :320px) and (max-width :480px) {
+  .bg-review-comment {
+    background: none;
+    background-size: 340px;
+    height: 120px;
+    margin-bottom: 30px;
+  }
+  .btn-review{
+      -moz-user-select: none;
+      background: #000 none repeat scroll 0 0;
+      border: 1px solid transparent;
+      border-radius: 0;
+      color: #fff;
+      cursor: pointer;
+      display: inline-block;
+      font-size: 1em;
+      font-weight: 700;
+      line-height: 1.42857;
+      padding: 8px 25px;
+      text-align: center;
+      vertical-align: middle;
+      white-space: nowrap;
+      margin-top: 20px;
+  }
+   h1.title-review{
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+  }
+  p.text-sm-review{
+     font-size:18px;
+     margin-top: 15px;     
+     /*font-family: Gill Sans, sans-serif; */
+  }
+  .hold_product_detail h1.cu_h1 {
+      font-size: 12px;
+      line-height: 15px;
+  }
+}
+
+/* End Review Comment */
+
