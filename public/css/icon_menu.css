@@ -1,0 +1,129 @@
+.icon{
+	width:20px;
+	height:20px;
+	margin-right: 5px;
+	display:inline-block;
+}
+.icon-Men-s-fragrance{
+	background:url("../img/icon-men-fragrance.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Women-s-Fragrance{
+	background:url("../img/icon-women-fragrance.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Hand-and-Nails{
+	background:url("../img/icon-hand-and-nails.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-hand-and-nails{
+	background:url("../img/icon-hand-and-nails.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Face{
+	background:url("../img/icon-face.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Lips{
+	background:url("../img/icon-lips.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-EYE{
+	background:url("../img/icon-eye.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-makeup-set{
+	background:url("../img/icon-makeup-set.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-makeup-fixator{
+	background:url("../img/icon-makeup-fixator.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Skin-Type{
+	background:url("../img/icon-skin-type.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Moisturize{
+	background:url("../img/icon-moisturize.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Cleansers{
+	background:url("../img/icon-cleansers.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-SKINCARE-for-men{
+	background:url("../img/icon-skincare-for-men.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Masks{
+	background:url("../img/icon-mask.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-must-haves{
+	background:url("../img/icon-must-haves.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-shop-by-concerns{
+	background:url("../img/icon-shop-by-concerns.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-sun-care{
+	background:url("../img/icon-sun-care.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-special-body-care{
+	background:url("../img/icon-special-body-care.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-Body-Exfoliators{
+	background:url("../img/icon-body-exfoliators.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-men-body{
+	background:url("../img/icon-men-body.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-anti-cellulite{
+	background:url("../img/icon-anti-cellulite.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-stretch-marks{
+	background:url("../img/icon-stretch-marks.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.icon-none{
+	background:url("../img/icon-none.png") no-repeat;
+	background-size:20px 20px;
+	background-position:center center;
+}
+.fa-flag-eng{
+	display: inline-block;
+	max-height: 15px;
+	vertical-align: middle;
+	background: transparent url("../img/flag-eng.png") no-repeat scroll 0% 0%;
+	width: 24px !important;
+	height: 20px;
+}
