@@ -1,0 +1,33 @@
+/*=========================================== jobs ===================================================================*/
+.jobs-container{
+	padding-top: 30px;
+	margin-bottom: 30px;
+	overflow: hidden;
+}
+.jobs{
+    overflow: hidden;
+}
+.jobs-heading{
+    font-size: 50px;
+    line-height: 45px;
+	margin-bottom: 15px;
+}
+.jobs-image.pull-left{
+    margin-right: 40px;
+}
+.jobs-image.pull-right{
+    margin-left: 40px;
+}
+/*========================================== cursor ========================================================*/
+#cursorOffice{
+	 cursor: url('/images/tools/iconOffice.png'), auto;
+}
+#cursorHighimpact{
+	 cursor: url('/images/tools/icon-Highimpact.png'), auto;
+}
+#cursorOutdoor{
+	 cursor: url('/images/tools/iconOutdoor.png'), auto;
+}
+#cursorAthletes{
+	cursor: url('/images/tools/iconAthletes.png'), auto;
+}
