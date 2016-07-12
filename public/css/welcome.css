@@ -95,3 +95,16 @@
     width:100%;
   }
 }
+.waiting{
+  background-image: url('/img/load.gif');
+  width:200px;
+  height: 133px;
+  position: absolute;
+  display:none;
+}
+.loading{
+  display: none;
+}
+.banner-link{
+  display: block;
+}
