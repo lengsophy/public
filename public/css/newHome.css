@@ -1,0 +1,98 @@
+.service-feature {
+    min-height: 80px;
+    overflow: hidden;
+}
+.service-feature .feature > li.feature-item {
+    margin-right: 15px;
+    float: left;
+    min-height: 50px;
+}
+.service-feature .feature > li.feature-item > a {
+    background: #ccc;
+    min-width: 170px;
+    padding: 15px;
+    text-align: left;
+    min-height: 50px;
+    display: table;
+    font-size: 14px;
+}
+.service-feature .feature > li .feature-text > .safe-purchas {
+    background: url("../images/tools/safe-purchas.png") no-repeat bottom right;
+    background-size: 25px 25px;
+}
+.service-feature .feature > li .feature-text > .icon-feature {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    float: right;
+}
+/*body new home*/
+.single-widget-home .home > li > .widget-home-item {
+    width: 170px;
+    float: left;
+    margin-right: 15px;
+    min-height: 280px;
+    /*border-right: 2px solid #ea3342;*/
+    border-right: 2px solid #DAA520;
+    padding: 0px 15px 0px 15px;
+    border-bottom: 1px solid #ccc;
+    overflow: hidden;
+}
+.widget-home-item .widget-header, .widget-home-item-last .widget-header {
+    min-height: 100px;
+}
+.widget-header h2 {
+    margin-top: 0px;
+}
+.widget-home-item .widget-body {
+    min-height: 150px;
+}
+.widget-home-item-last .widget-body {
+    min-height: 185px;
+}
+.widget-body .btn-login {
+    padding-top: 50px;
+}
+.widget-body .btn-home-login {
+    background: #ea3342;
+    border: 0px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 15px;
+    height: 33px;
+    font-weight: bold;
+    padding: 6px 2px;
+}
+.widget-home-item .widget-footer {
+    min-height: 35px;
+    text-align: center;
+}
+.widget-home-item .widget-footer a {
+    font-size: 12px;
+}
+.widget-home-item .widget-footer span {
+    color: #ea3342;
+    margin-left: 5px;
+}
+.new_jssora22r:hover, .new_jssora22l:hover {
+    background-position: 0px 0px;
+    cursor: pointer;
+}
+#jssor_1 > div > div > span.jssora22r.new_jssora22r{
+    background-image: url(../images/tools/next.png);
+    background-size: 65px 150px;
+    width: 65px;
+    height: 150px;
+    right: 0px;
+    margin-top: -11px;
+    background-position: 0px 0px;
+}
+#jssor_1 > div > div > span.jssora22l.new_jssora22l{
+    background-image: url(../images/tools/prev.png);
+    background-size: 65px 150px;
+    width: 65px;
+    height: 150px;
+    left: -1px;
+    margin-top: -11px;
+    background-position: 0px 0px;
+}
